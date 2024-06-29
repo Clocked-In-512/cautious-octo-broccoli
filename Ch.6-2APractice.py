@@ -1,5 +1,5 @@
 ##Robert Fernandez
-##Complete/Incomplete
+##Complete
 ##Write numbers 50 to 100 inclusive to file number_list.
 
 def main():
